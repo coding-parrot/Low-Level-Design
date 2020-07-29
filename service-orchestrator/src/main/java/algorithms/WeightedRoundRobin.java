@@ -28,6 +28,7 @@ public class WeightedRoundRobin implements Router {
         synchronized (this.lock) {
             nodes.remove(node);
             assignTo--;
+            if(assignTo < 0 ) assignTo = 0;
             currentNodeAssignments = 0;
         }
     }
