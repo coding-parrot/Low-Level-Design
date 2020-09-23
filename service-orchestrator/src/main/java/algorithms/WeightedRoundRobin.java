@@ -34,7 +34,7 @@ public class WeightedRoundRobin implements Router {
 
     public Node getAssignedNode(Request request) {
         synchronized (this.lock) {
-            assignTo = assignTo % nodes.size();
+            assignTo = (assignTo + nodes.size()) % nodes.size();
             final var currentNode = nodes.get(assignTo);
             currentNodeAssignments++;
             if (currentNodeAssignments == currentNode.getWeight()) {
