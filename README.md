@@ -8,4 +8,4 @@ Please raise issues and pull requests for fixes and updates.
 3. Rate Limiter
 4. Service Orchestrator
 
-Head to https://get.interviewready.io/courses/system-design-interview-prep for a detailed explanation.
+Head to https://get.interviewready.io/ for a detailed explanation.
