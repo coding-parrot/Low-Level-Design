@@ -10,6 +10,10 @@ Please raise issues and pull requests for fixes and updates.
 
 The following resources are useful for learning low level design.
 
+### Design Patterns
+
+[Refactoring Guru](https://refactoring.guru/)
+
 ### Memory Management
 
 [Texas University Memory Models](https://www.cs.utexas.edu/~bornholt/post/memory-models.html)
