@@ -30,7 +30,7 @@ The following resources are useful for learning low level design.
 
 [Netflix Hystrix](https://github.com/Netflix/Hystrix)
 
-[Shuffle Sharding](https://github.com/awslabs/route53-infima)
+[Amazon AWS Shuffle Sharding](https://github.com/awslabs/route53-infima)
 
 ### Course 
 
