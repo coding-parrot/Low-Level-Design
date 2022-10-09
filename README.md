@@ -20,7 +20,7 @@ The following resources are useful for learning low level design.
 
 [Slack reducing memory footprint](https://slack.engineering/reducing-slacks-memory-footprint)
 
-### Message Queue - Rate Limiting
+### Rate Limiting
 
 [Apache Kafka Exactly Once processing](https://docs.google.com/document/d/11Jqy_GjUGtdXJK94XGsEIK7CP1SnQGdp2eF0wSw9ra8)
 
@@ -29,6 +29,8 @@ The following resources are useful for learning low level design.
 [Martin Fowler Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html)
 
 [Netflix Hystrix](https://github.com/Netflix/Hystrix)
+
+[Shuffle Sharding](https://github.com/awslabs/route53-infima)
 
 ### Course 
 
