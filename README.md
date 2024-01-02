@@ -35,3 +35,8 @@ The following resources are useful for learning low level design.
 ### Course 
 
 https://interviewready.io/
+
+### LLD Solutions Blogs
+
+https://lldcoding.com
+
